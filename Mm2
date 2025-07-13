@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/V3nomD3ath/MM2/refs/heads/main/V3",true))()
+loadstring(game:HttpGet("https://www.ghostbin.cloud/xspiu/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()
